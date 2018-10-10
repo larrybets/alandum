@@ -1,0 +1,74 @@
+/* Custom Stylesheet */
+
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.btn {
+    border: 1px solid white;
+}
+
+.main-header {
+    background: url(../images/Backgrounds/home_bkg.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    color: #fff;
+}
+
+.main-header .logo {
+    padding-top: 40px;
+}
+
+.alto {
+    min-height: 120px;
+}
+
+.foot {
+    padding-top: 20px;
+    min-height: 150px;
+}
+
+nav a.selected,
+nav a:hover {
+    color: #387789;
+}
+
+a {
+    color: white;
+}
+
+.browser-default {
+    color: purple;
+    font-weight: bold;
+}
+
+.leftp {
+    margin-top: 21px;
+}
+
+.textl {
+    font-size: 9.5px;
+}
+
+.mb {
+    margin-bottom: -30px;
+}
+
+.btnP {
+    border: 2px solid mediumslateblue;
+}
+
+.border {}
